@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package messages;
+
+message Msg {
+  string text = 1;
+  string to = 2;
+}
