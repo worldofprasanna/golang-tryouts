@@ -17,4 +17,8 @@ go build cmd/main.go
 
 ## To run the code
 
+### Add messages
 ./main add hello there
+
+### List messages
+./main list

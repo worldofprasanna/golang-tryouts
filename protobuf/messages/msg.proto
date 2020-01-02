@@ -3,6 +3,6 @@ syntax = "proto3";
 package messages;
 
 message Msg {
-  string text = 1;
-  string to = 2;
+  string Text = 1;
+  string To = 2;
 }
